@@ -11,6 +11,6 @@ Praxis abstracts away the underlying infrastructure by providing a set of univer
 
 # Getting Started
 
-Want to jump in and start using Praxis right away? Follow the [Getting Started](https://github.com/convox/praxis/blob/master/docs/getting-started.md) guide in the source repo!
+Want to jump in and start using Praxis right away? Follow the [Getting Started](https://github.com/convox/praxis/blob/master/docs/getting-started-local.md) guide in the source repo!
 
 The rest of this site walk you through Praxis configuration details and SDK usage.
